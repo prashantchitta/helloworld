@@ -1,0 +1,4 @@
+package: main
+import:
+- package: gopkg.in/olivere/elastic.v5
+- package: github.com/Pallinder/go-randomdata
